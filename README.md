@@ -34,7 +34,7 @@ DAX
 ![Screenshot 2022-11-22 152114](https://user-images.githubusercontent.com/102639991/203282922-59fa002a-a90d-412f-b2c4-66567f960680.png)
 ## Live Dashboard
 
-![Uploading Screenshot 2022-11-22 152502.png…]()
+![Screenshot 2022-11-22 152502](https://user-images.githubusercontent.com/102639991/203305970-120a7f61-bc5c-4f20-924e-605e1a7639c3.png)
 ![Screenshot 2022-11-22 152533](https://user-images.githubusercontent.com/102639991/203283903-9ac8a21a-db73-43cf-badf-8f10d255bcc0.png)
 
 ## Insights
